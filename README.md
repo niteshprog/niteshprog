@@ -4,7 +4,7 @@ _**<h3>Undergraduate, B.Tech(Hons.) - AIML spec. at Upes || In Learning Phase</h
 
 
 - 🔭 I’m currently working on C, HTML, CSS.
-- 🌱 I’m currently learning Java, JavaScript, Git, Python.
+- 🌱 I’m currently learning Java, JavaScript, Git, Python, R.
 -  	:nerd_face: Trying to get the best out of me by learning
   
 _**<h2>Connections:</h2>**_
@@ -30,4 +30,6 @@ _**<h2>Connections:</h2>**_
   <a href="https://icons8.com/icon/61466/intellij-idea">![icons8-intellij-idea-48](https://user-images.githubusercontent.com/74867544/129617491-31278600-1cd5-4252-8cbb-b1693b785fcc.png)
 </a>
   <a href="https://icons8.com/icon/20906/git">![icons8-git-48](https://user-images.githubusercontent.com/74867544/129617566-36b686d7-557c-409b-8c60-7b1948c2096a.png)
+</a>
+<a href="https://icons8.com/icon/xJd_7yBGvl5J/r-project">![icons8-r-project-32](https://user-images.githubusercontent.com/74867544/129889196-e1350c69-7a1d-4139-9815-2ac2c4c92b89.png)
 </a>
