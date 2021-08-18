@@ -31,5 +31,4 @@ _**<h2>Connections:</h2>**_
 </a>
   <a href="https://icons8.com/icon/20906/git">![icons8-git-48](https://user-images.githubusercontent.com/74867544/129617566-36b686d7-557c-409b-8c60-7b1948c2096a.png)
 </a>
-<a href="https://icons8.com/icon/xJd_7yBGvl5J/r-project">![icons8-r-project-32](https://user-images.githubusercontent.com/74867544/129889196-e1350c69-7a1d-4139-9815-2ac2c4c92b89.png)
-</a>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikiversity.org%2Fwiki%2FR_(programming_language)&psig=AOvVaw28tT_udVWdUFNkaw2M0f1o&ust=1629371844552000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDgwc65uvICFQAAAAAdAAAAABAD" width="60px">
