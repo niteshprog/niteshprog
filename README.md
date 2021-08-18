@@ -31,6 +31,6 @@ _**<h2>Connections:</h2>**_
 </a>
   <a href="https://icons8.com/icon/20906/git">![icons8-git-48](https://user-images.githubusercontent.com/74867544/129617566-36b686d7-557c-409b-8c60-7b1948c2096a.png)
 </a>
-<a>![icons8-r-project-32](https://user-images.githubusercontent.com/74867544/129889622-2cb013ac-8241-4532-a1b6-846fde21edfc.png)</a>
+<img src="https://img.icons8.com/windows/32/000000/r-project.png"/>
   
 
