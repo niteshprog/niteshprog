@@ -31,7 +31,7 @@ _**<h2>Connections:</h2>**_
 </a>
   <a href="https://icons8.com/icon/20906/git">![icons8-git-48](https://user-images.githubusercontent.com/74867544/129617566-36b686d7-557c-409b-8c60-7b1948c2096a.png)
 </a>
-<a href="https://icons8.com/icon/xJd_7yBGvl5J/r-project"><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" width="60px">
+<a href="https://icons8.com/icon/xJd_7yBGvl5J/r-project"><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" width="50px">
 </a>
   
 
