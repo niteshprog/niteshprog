@@ -8,7 +8,7 @@ _**<h3>Undergraduate, B.Tech(Hons.) - AIML spec. at Upes || In Learning Phase</h
 -  	:nerd_face: Trying to get the best out of me by learning
   
 _**<h2>Connections:</h2>**_
- <a href="https://www.instagram.com/troglodyte.n/" title="Instagram"><img width = "60px" src="https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png" alt="Instagram Profile" /></a>
+ <a href="https://www.instagram.com/niteshig/" title="Instagram"><img width = "60px" src="https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png" alt="Instagram Profile" /></a>
   <a href="https://www.linkedin.com/in/nitesh-kumar-416652200/" title="LinkedIn"><img width = "70px" src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png"  alt="LinkedIn Profile" /></a>
   <a href="https://twitter.com/initeshv" title="Twitter"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" width="60px" alt="Twitter Profile" /></a>
   
