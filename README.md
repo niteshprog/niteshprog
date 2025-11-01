@@ -3,8 +3,8 @@
 _**<h3>Undergraduate, B.Tech(Hons.) - AIML spec. at Upes || In Learning Phase</h3>**_
 
 
-- 🔭 I’m currently working on C, HTML, CSS.
-- 🌱 I’m currently learning Java, JavaScript, Git, Python, R.
+
+- 🌱 I’m currently learning Java, Git, Python
 -  	:nerd_face: Trying to get the best out of me by learning
   
 _**<h2>Connections:</h2>**_
