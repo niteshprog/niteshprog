@@ -37,8 +37,8 @@ Azure AI Search • Vector Databases • SQL • KQL • Knowledge Graphs
 ## 📫 Connect With Me
 
 <a href="https://www.instagram.com/niteshig/" title="Instagram"><img width="60px" src="https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png" alt="Instagram Profile" /></a>
-<a href="https://www.linkedin.com/in/nitesh-kumar-416652200/" title="LinkedIn"><img width="70px" src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png" alt="LinkedIn Profile" /></a>
-<a href="https://twitter.com/initeshv" title="Twitter"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" width="60px" alt="Twitter Profile" /></a>
+<a href="https://www.linkedin.com/in/nitesh-vishwakarma-416652200/" title="LinkedIn"><img width="70px" src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png" alt="LinkedIn Profile" /></a>
+<a href="https://x.com/niteshstwt" title="Twitter"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" width="60px" alt="Twitter Profile" /></a>
 
 ---
 
